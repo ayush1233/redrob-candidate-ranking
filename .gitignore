@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+India_runs_data_and_ai_challenge/
+presentation_deck.pdf
+submission.csv
+Idea Submission Template _ Redrob - Copy.pdf
+extract_docx.ps1
+audit.py
